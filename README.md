@@ -7,11 +7,8 @@ I am a Full-stack Webdeveloper specializing in
 * **Typescript/Javascript**, Angular, Ionic, React, Svelte, Webpack and jQuery
 * **CSS**, SCSS and PostCSS
 
-With a fair amount of experience in
-* C#(Mainly Unity), Java, Shell(Bash/ZSH/Vimscript)
-* 
-And sometimes dabling in
-* Objective-C, Lua, Rust, Ruby, Python.
+With a fair amount of experience in: C#(Mainly Unity), Java and Shell(Bash/ZSH/Vimscript).
+And sometimes dabling in: Objective-C, Lua, Rust and Python.
 
 I have been working 5+ years as a developer, Back-end developer and "Back-end Wordpress" developer @ [Social Brothers](https://socialbrothers.nl) in Utrecht, the Netherlands. I prefer beinc called Señor Developer🌶 (si).
 
