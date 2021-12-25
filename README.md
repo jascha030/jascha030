@@ -1,30 +1,40 @@
-### Hello there
+## Hello there
 
 > Read the title in Ewan McGregor's voice for the full experience.
 
-I am a Full-stack Webdeveloper specializing in
-* **PHP** Composer, Symfony, Laravel and Wordpress
-* **Typescript/Javascript**, Angular, Ionic, React, Svelte, Webpack and jQuery
-* **CSS**, SCSS and PostCSS
+### I specialise in (in order)
 
-With a fair amount of experience in: C#(Mainly Unity), Java and Shell(Bash/ZSH/Vimscript).
-And sometimes dabling in: Objective-C, Lua, Rust and Python.
+* PHP (Plain, Composer, Symfony, Laravel, ReactPHP & Wordpress)
+* Typescript/Javascript (Plain, Angular, Ionic, React, Svelte, Webpack & jQuery)
+* CSS (SCSS, PostCSS)
 
-I have been working 5+ years as a developer, Back-end developer and "Back-end Wordpress" developer @ [Social Brothers](https://socialbrothers.nl) in Utrecht, the Netherlands. I prefer beinc called Señor Developer🌶 (si).
+#### Have a decent amount of experience with
 
-Next to that I also...
-* [Am a self-proclaimed musician*](https://soundcloud.com/jassie030)
-> \* Read "musician" as "gearhead" who accidentaly creates 🔥 on occasion.
+* C# (Mainly Unity related, little .NET)
+* Java (Plain, Gradle, Android, Kotlin is fun)
+* Objective-C (Looks like mandarin, Swift less I Guess, iOS & AudioUnits)
+* Shell (ZSH All day, Bash, VimScript, Python)
 
-* Have a background in graphical design and am a failed game-artist student.
-* Hoarder of "cool" stuff (Used to be mainly sneakers and Star Wars stuff, but shifted more toward Vinyl, CD's, Cassette's, and music gear)
-* Have a weird love-hate relationship with Wordpress. (Not a fan of it's codebase, but it's what I worked with the most in the past 8 years or so. I know it inside out and am on a constant mission to improve the development experience by applying modern PHP in combination with loads of cool composer packages like a bunch of the `symfony` components, a variety of `psr-11` Containers, like: `pimple/pimple` and `php-di/php-di`, template engines like `blade` or `twig/twig`. To name a few of my efforts.
+#### Am learning (or trying)
 
-I love to Nerd-out about
-* Music gear, software and Synths 🎹
-* Music, preferably; Electro, Hip-hop, Italo-disco, New/Dark/Synth-wave, anything prefixed by "Acid-", Rave, Jungle/D&B & "Hot Sax" 🎷.
-* Star Wars 🚀, Formula 1 🏎, Modern (pop) Art 🖼  and Sneakers (not yeezy's tho :hehehehe:) 👟
+* Rust (cuz I'm cool like that)
+* Lua (for shiny NVIM setups)
+* Kotlin (Easier than expected, guess it doesn't belong here)
 
-- 🔭 I’m currently working on my Front-end skills (not sure how I feel about that, but it's a necessity nowadays).
-- 🌱 Trying out Rust
-- Dabling in Lua for my NVIM setup.
+I have been working 5+ years as Developer, Back-end developer and "Back-end Wordpress" @ _Social Brothers_ in Utrecht, the Netherlands.
+
+## Next to that I also...
+* [Am a self-proclaimed musician](https://soundcloud.com/jassie030)
+* Have a background in graphical design & am a failed game-artist student.
+* Am a hoarder of 
+	* 👟 Sneakers (Nike, Jordan, Reebok, Asics, vans, NB) 
+	* 💿 Vinyl, CD's & Cassette's
+	* 🎹 Expensive Euro-rack synthesizer modules
+	* 💻 Expensive audiounit/vst plugins and software
+* Have a love-hate relationship with WordPress. Not a fan, what I have worked with most in the past 8yrs. Know it inside-out. On a mission to improve the WP dev-experience with modern PHP, well written code, composer libraries, among others.
+* Love to Nerd-out about
+  * 🎹 Music gear, software and Synths
+  * 🎧 Electro, Hip-hop, Italo, New/Dark/Synth-wave, music prefixed w "Acid-", Rave, Jungle/D&B & "Hot Sax🎷"
+  * 🚀 Star Wars
+  * 🏎 Formula 1
+  * 🖼 Modern (pop) Art
