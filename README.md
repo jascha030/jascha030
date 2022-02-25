@@ -11,13 +11,13 @@
 	* Typescript/Javascript (Plain, Angular, Ionic, React, Svelte, Webpack & jQuery)
 	* CSS (SCSS, PostCSS)
 * **Have a decent amount of experience with**
+	* Lua (for shiny NVIM setups)
 	* C# (Mainly Unity related, little .NET)
 	* Java (Plain, Gradle, Android, Kotlin is fun)
 	* Objective-C (Looks like mandarin, Swift less I Guess, iOS & AudioUnits)
 	* Shell (ZSH All day, Bash, VimScript, Python)
 * **Am learning (or trying)**
 	* Rust (cuz I'm cool like that)
-	* Lua (for shiny NVIM setups)
 	* Kotlin (Easier than expected, guess it doesn't belong here)
 
 I have been working 5+ years as Developer, Back-end developer and "Back-end Wordpress" @ _Social Brothers_ in Utrecht, the Netherlands.
