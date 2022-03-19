@@ -1,8 +1,9 @@
+# Jascha030
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jascha030&layout=compact&langs_count=8&card_width=460&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Jascha030s WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jascha030&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 > ### Hello there
 > Read the title in Ewan McGregor's voice for the full experience.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jascha030&layout=default&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Jascha030s WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jascha030&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
