@@ -1,10 +1,10 @@
 # Jascha030
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jascha030&card_width=300&layout=compact&langs_count=8&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jascha030&card_width=280&layout=compact&langs_count=8&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jascha030&layout=compact&card_width=400&langs_count=8&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jascha030&layout=compact&langs_count=8&theme=tokyonight" />
 </a>
 
 ---
