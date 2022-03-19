@@ -1,11 +1,16 @@
 # Jascha030
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jascha030&layout=compact&langs_count=8&card_width=460&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Jascha030s WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jascha030&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jascha030&layout=compact&langs_count=8&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jascha030&layout=compact&langs_count=8&theme=tokyonight" />
+</a>
+
+---
 
 > ### Hello there
 > Read the title in Ewan McGregor's voice for the full experience.
-
----
 
 * **I specialise in (in order)**
 	* PHP (Plain, Composer, Symfony, Laravel, ReactPHP & Wordpress)
