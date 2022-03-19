@@ -4,23 +4,25 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jascha030&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Jascha030s WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jascha030&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 * **I specialise in (in order)**
 	* PHP (Plain, Composer, Symfony, Laravel, ReactPHP & Wordpress)
 	* Typescript/Javascript (Plain, Angular, Ionic, React, Svelte, Webpack & jQuery)
 	* CSS (SCSS, PostCSS)
-* **Have a decent amount of experience with**
-	* Lua (for shiny NVIM setups)
+	* Lua (NVIM/Hammerspoon)
+* **Have a some, to a decent amount of experience with**
 	* C# (Mainly Unity related, little .NET)
 	* Java (Plain, Gradle, Android, Kotlin is fun)
-	* Objective-C (Looks like mandarin, Swift less I Guess, iOS & AudioUnits)
-	* Shell (ZSH All day, Bash, VimScript, Python)
+	* Shell (ZSH, Bash, VimScript, Python)
+	* Objective-C/Swift (iOS & AudioUnits)
 * **Am learning (or trying)**
 	* Rust (cuz I'm cool like that)
 	* Kotlin (Easier than expected, guess it doesn't belong here)
 
-I have been working 5+ years as Developer, Back-end developer and "Back-end Wordpress" @ _Social Brothers_ in Utrecht, the Netherlands.
+I have been working 6+ years as Developer, Back-end developer and "Back-end Wordpress" @ _Social Brothers_ in Utrecht, the Netherlands.
 
 ---
 
@@ -30,9 +32,5 @@ I have been working 5+ years as Developer, Back-end developer and "Back-end Word
 * Am a hoarder of 👟 Sneakers (Nike, Jordan, Reebok, Asics, vans, NB), 💿 Vinyl, CD's & Cassette's, 🎹 Expensive Euro-rack synthesizer modules, 💻 Expensive audiounit/vst plugins and software.
 * Have a love-hate relationship with WordPress. Not a fan, what I have worked with most in the past 8yrs. Know it inside-out. On a mission to improve the WP dev-experience with modern PHP, well written code, composer libraries, among others.
 * Love to Nerd-out about: 🎹 Music gear, software and Synths, 🎧 Electro, Hip-hop, Italo, New/Dark/Synth-wave, music prefixed w "Acid-", Rave, Jungle/D&B & "Hot Sax🎷", 🚀 Star Wars, 🏎 Formula 1, 🖼 Modern (pop) Art.
-
----
-
-[![Jascha030s WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jascha030&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
